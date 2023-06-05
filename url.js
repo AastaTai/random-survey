@@ -8,6 +8,9 @@
 
 
 const urls = [
-	'https://forms.office.com/r/ENRvQYyzwi',
-	'https://forms.office.com/r/NHrc9ym57m'
+	'https://forms.office.com/r/NHrc9ym57m',
+	'https://forms.office.com/r/QuZp5f89fc',
+	'https://forms.office.com/r/LSffWUu7Hc',
+	'https://forms.office.com/r/T4nwtxU9by',
+	'https://forms.office.com/r/ECDKgZvrMJ'
 ];
